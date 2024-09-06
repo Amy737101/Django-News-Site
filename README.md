@@ -1,7 +1,7 @@
 # Django-News-Site
 This News Site is developed using Python and Django Framework for the backend and JavaScript,CSS, Bootstrap, AJAX,JQuery and HTML has been used for the frontend.
 
-#Check master branch for the codes
+#_______Check master branch for the codes______
 
 
 Core Functionalities:
