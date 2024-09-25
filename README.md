@@ -2,9 +2,11 @@
 
 This News Site is developed using Python and Django Framework for the backend and JavaScript, CSS, Bootstrap, AJAX, JQuery and HTML has been used for the frontend.
 
-#_Check master branch for the codes
 
-Core Functionalities: 1]User Authentication:
+
+## Core Functionalities: 
+
+1]User Authentication:
 
 User registration, login, and logout. User profile management (e.g., updating profile information, changing passwords). User roles and permissions (e.g., admin, editor, regular user).
 
